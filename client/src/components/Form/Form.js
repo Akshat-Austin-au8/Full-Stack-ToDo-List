@@ -91,7 +91,7 @@ const Form = () => {
         </Button>
         <Button
           variant="contained"
-          color="Secondary"
+          color="secondary"
           size="small"
           onClick={clear}
           fullWidth
